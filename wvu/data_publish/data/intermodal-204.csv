@@ -1,0 +1,205 @@
+﻿id,lat,lon,type,city,Remarks
+1,40.76053234,-73.99815168,H,"New York city, New York",FedEx ShipSite
+2,34.02135577,-118.276327,H,"Los Angeles city, California",FedEx ShipSite
+3,41.90215422,-87.64911463,H,"Chicago city, Illinois",FedEx ShipSite
+4,29.86347823,-95.56083908,H,"Houston city, Texas",FedEx  Ground
+5,33.6953622,-112.084666,H,"Phoenix city, Arizona",FedEx  Ground
+6,40.11206849,-74.97304753,H,"Philadelphia city, Pennsylvania",FedEx  Ground
+7,29.56043186,-98.48861926,H,"San Antonio city, Texas",FedEx ShipSite
+8,32.72265031,-117.0943062,H,"San Diego city, California",FedEx ShipSite
+9,32.76561966,-96.886373,H,"Dallas city, Texas",FedEx  Ground
+10,30.18066807,-97.6906159,H,"Austin city, Texas",FedEx ShipSite
+11,30.34011833,-81.77514333,H,"Jacksonville city, Florida",FedEx ShipSite
+12,40.01861818,-82.9200998,H,"Columbus city, Ohio",FedEx ShipSite
+13,39.80026887,-86.0990547,H,"Indianapolis city (balance), Indiana",FedEx  Ground
+14,35.27312217,-80.91829747,H,"Charlotte city, North Carolina",FedEx  Ground
+15,37.77383407,-122.387024,H,"San Francisco city, California",Port of San Francisco 
+16,47.61383752,-122.3542582,H,"Seattle city, Washington",Port of Seattle 
+17,39.77269119,-104.8734468,H,"Denver city, Colorado",FedEx ShipSite
+18,38.90991459,-77.00402788,H,"Washington city, District of Columbia",FedEx ShipSite
+19,36.14608226,-86.69679309,H,"Nashville-Davidson metropolitan government (balance), Tennessee",FedEx ShipSite
+20,35.40870865,-97.58189585,H,"Oklahoma City city, Oklahoma",FedEx ShipSite
+21,31.79474979,-106.3734407,H,"El Paso city, Texas",FedEx ShipSite
+22,42.34075084,-71.03645474,H,"Boston city, Massachusetts",FedEx ShipSite
+23,45.5500088,-122.6936146,H,"Portland city, Oregon",Ash Grove Portland Terminal
+24,36.2170244,-115.1565951,H,"Las Vegas city, Nevada",FedEx ShipSite
+25,42.44998268,-83.1954107,H,"Detroit city, Michigan",FedEx  Ground
+26,35.02696536,-89.93900263,H,"Memphis city, Tennessee",FedEx ShipSite
+27,39.33454742,-76.4918943,H,"Baltimore city, Maryland",FedEx ShipSite
+28,42.94732106,-87.91648667,H,"Milwaukee city, Wisconsin",FedEx ShipSite
+29,35.08625834,-106.7343589,H,"Albuquerque city, New Mexico",FedEx  Ground
+30,32.17343913,-110.915207,H,"Tucson city, Arizona",FedEx ShipSite
+31,36.68941791,-119.7754281,H,"Fresno city, California",FedEx  Ground
+32,33.63412202,-84.39225549,H,"Atlanta city, Georgia",FedEx ShipSite
+33,41.20619786,-96.02293794,H,"Omaha city, Nebraska",FedEx ShipSite
+34,38.81336275,-104.7215076,H,"Colorado Springs city, Colorado",FedEx ShipSite
+35,35.91765858,-78.81594484,H,"Raleigh city, North Carolina",FedEx  Ground
+36,25.77237529,-80.19381711,H,"Miami city, Florida",FedEx ShipSite
+37,44.88357819,-93.23354203,H,"Minneapolis city, Minnesota",FedEx ShipSite
+38,36.18541426,-95.88004397,H,"Tulsa city, Oklahoma",FedEx ShipSite
+39,37.77858027,-97.21853314,H,"Wichita city, Kansas",FedEx  Ground
+40,38.20704266,-85.51979269,H,"Louisville/Jefferson County metro government (balance), Kentucky",FedEx  Ground
+41,27.97566095,-82.51984401,H,"Tampa city, Florida",FedEx ShipSite
+42,29.94755841,-90.07355476,H,"New Orleans city, Louisiana",FedEx ShipSite
+43,41.39843554,-81.84339614,H,"Cleveland city, Ohio",FedEx ShipSite
+44,38.07864349,-84.53688892,H,"Lexington-Fayette urban county, Kentucky",FedEx ShipSite
+45,27.76230203,-97.46785092,H,"Corpus Christi city, Texas",FedEx ShipSite
+46,39.19316693,-84.47390985,H,"Cincinnati city, Ohio",FedEx ShipSite
+47,28.46249462,-81.42726221,H,"Orlando city, Florida",FedEx  Ground
+48,40.50087164,-80.09191008,H,"Pittsburgh city, Pennsylvania",FedEx  Ground
+49,38.69399342,-90.34175965,H,"St. Louis city, Missouri",FedEx  Ground
+50,35.91765632,-78.81597413,H,"Durham city, North Carolina",FedEx  Ground
+51,42.78052551,-78.84626101,H,"Buffalo city, New York",FedEx  Ground
+52,41.59886372,-83.54197979,H,"Toledo city, Ohio",FedEx ShipSite
+53,43.16672638,-89.32189813,H,"Madison city, Wisconsin",FedEx  Ground
+54,39.50150857,-119.7535879,H,"Reno city, Nevada",FedEx ShipSite
+55,41.10855847,-85.19081283,H,"Fort Wayne city, Indiana",FedEx ShipSite
+56,33.53893978,-101.8303338,H,"Lubbock city, Texas",FedEx  Ground
+57,27.67976446,-99.47966185,H,"Laredo city, Texas",FedEx  Ground
+58,38.20704523,-85.51979257,H,"Louisville city, Kentucky",FedEx  Ground
+59,43.541455,-116.185659,H,"Boise City city, Idaho",FedEx  Ground
+60,47.66236234,-117.3479445,H,"Spokane city, Washington",FedEx ShipSite
+61,30.38761507,-91.06714739,H,"Baton Rouge city, Louisiana",FedEx  Ground
+62,37.59672104,-77.51377919,H,"Richmond city, Virginia",FedEx ShipSite
+63,34.71610273,-86.59319021,H,"Huntsville city, Alabama",FedEx ShipSite
+64,41.57480956,-93.6248348,H,"Des Moines city, Iowa",FedEx ShipSite
+65,32.52109489,-84.91665112,H,"Columbus city, Georgia",FedEx ShipSite
+66,34.73920373,-92.3525621,H,"Little Rock city, Arkansas",FedEx ShipSite
+67,33.55295003,-86.65867272,H,"Birmingham city, Alabama",FedEx  Ground
+68,40.7282486,-112.019548,H,"Salt Lake City city, Utah",FedEx  Ground
+69,43.02816751,-85.72080314,H,"Grand Rapids city, Michigan",FedEx  Ground
+70,38.93727619,-94.66649889,H,"Overland Park city, Kansas",FedEx ShipSite
+71,43.59631641,-96.67277487,H,"Sioux Falls city, South Dakota",FedEx  Ground
+72,41.82946898,-71.40023899,H,"Providence city, Rhode Island",FedEx ShipSite
+73,35.91854804,-84.14218604,H,"Knoxville city, Tennessee",FedEx ShipSite
+74,32.48680137,-93.77099795,H,"Shreveport city, Louisiana",FedEx ShipSite
+75,30.68252236,-88.06762338,H,"Mobile city, Alabama",FedEx ShipSite
+76,35.01978067,-85.31531934,H,"Chattanooga city, Tennessee",FedEx  Ground
+77,44.06181108,-123.1435082,H,"Eugene city, Oregon",FedEx  Ground
+78,40.58385448,-105.0052876,H,"Fort Collins city, Colorado",FedEx ShipSite
+79,37.20997074,-93.25194853,H,"Springfield city, Missouri",FedEx ShipSite
+80,32.36486399,-90.14781792,H,"Jackson city, Mississippi",
+81,41.21609954,-73.2142435,H,"Bridgeport city, Connecticut",
+82,40.69525571,-112.025552,H,"West Valley City city, Utah",FedEx ShipSite
+83,41.88044448,-91.68302835,H,"Cedar Rapids city, Iowa",FedEx  Ground
+84,39.84403465,-84.19464001,H,"Dayton city, Ohio",FedEx ShipSite
+85,46.87371773,-96.84879312,H,"Fargo city, North Dakota",FedEx ShipSite
+86,40.58277467,-75.5218942,H,"Allentown city, Pennsylvania",FedEx ShipSite
+87,43.90766426,-92.48646524,H,"Rochester city, Minnesota",FedEx ShipSite
+88,37.99813454,-87.47161898,H,"Evansville city, Indiana",FedEx ShipSite
+89,45.74281693,-108.6085817,H,"Billings city, Montana",FedEx ShipSite
+90,42.98176001,-71.4474823,H,"Manchester city, New Hampshire",FedEx ShipSite
+91,44.47327298,-88.10045736,H,"Green Bay city, Wisconsin",FedEx ShipSite
+92,35.32326046,-94.3843741,H,"Fort Smith city, Arkansas",FedEx  Ground
+93,44.10795764,-103.1571478,H,"Rapid City city, South Dakota",FedEx  Ground
+94,46.92010983,-114.0766631,H,"Missoula city, Montana",FedEx  Ground
+95,36.92587231,-86.49943464,H,"Bowling Green city, Kentucky",FedEx  Ground
+96,39.75756116,-75.56805884,H,"Wilmington city, Delaware",FedEx ShipSite
+97,43.6540655,-70.33762092,H,"Portland city, Maine",FedEx ShipSite
+98,38.35911397,-81.59282883,H,"Charleston city, West Virginia",FedEx ShipSite
+99,44.27343424,-105.4919952,H,"Gillette city, Wyoming",FedEx ShipSite
+100,42.64839703,-73.77301056,H,"Albany city, New York",FedEx ShipSite
+101,42.91249982,-73.70656896,R,Albany (Mechanicville),Norfolk Southern Railroad
+102,38.18203089,-85.65546202,R,"Louisville, KY - Appliance Park",Norfolk Southern Railroad
+103,33.79434122,-84.43965071,R,"Atlanta, GA",Norfolk Southern Railroad
+104,42.54767027,-71.59142259,R,"Ayer, MA",Norfolk Southern Railroad
+105,40.60316337,-75.33425019,R,"Bethlehem, PA",Norfolk Southern Railroad
+106,42.8917322,-78.78303066,R,"Buffalo, NY",Norfolk Southern Railroad
+107,41.80536269,-87.63718882,R,"Chicago 47th, IL",Norfolk Southern - Union Pacific Railroad 
+108,39.10476642,-84.53974175,R,"Cincinnati, OH",Norfolk Southern Railroad
+109,35.19294039,-80.96033091,R,"Charlotte, NC",Norfolk Southern Railroad
+110,39.79411337,-82.95694498,R,"Columbus, OH",Norfolk Southern Railroad
+111,32.86896045,-80.00162765,R,"Charleston, SC",Norfolk Southern Railroad
+112,39.8736349,-88.91197339,R,"Decatur, IL",Norfolk Southern Railroad
+113,42.2961737,-83.12169962,R,"Detroit, MI - Delray",Norfolk Southern Railroad
+114,40.68594894,-74.1629583,R,"Elizabeth Marine Terminal, NJ",Norfolk Southern Railroad
+115,36.05708631,-79.85346818,R,"Greensboro, NC",Norfolk Southern Railroad
+116,32.10115206,-81.14211951,R,"Savannah, GA - Garden City Marine Terminal ",Norfolk Southern Railroad
+117,38.27339235,-84.5484614,R,"Georgetown, KY",Norfolk Southern Railroad
+118,34.93533833,-82.19261151,R,"Greer, SC",Norfolk Southern Railroad
+119,40.3059683,-76.89332489,R,"Harrisburg, PA",Norfolk Southern Railroad
+120,34.64148461,-86.75994177,R,"Huntsville, AL",Norfolk Southern Railroad
+121,30.3687426,-81.73033402,R,"Jacksonville, FL",Norfolk Southern Railroad
+122,41.41841628,-81.57750634,R,"Cleveland, OH",Norfolk Southern Railroad
+123,40.19123829,-74.84456094,R,"Morrisville, PA",Norfolk Southern Railroad
+124,36.91920599,-76.29505333,R,"NORFOLK INTERNATIONAL, VA",Norfolk Southern Railroad
+125,40.39563243,-79.78541887,R,"Pittsburgh, PA",Norfolk Southern Railroad
+126,35.01065172,-89.57490248,R,"Memphis, TN-rossville",Norfolk Southern - Union Pacific Railroad 
+127,38.68855031,-90.21324118,R,"St. Louis, MO",Norfolk Southern - Union Pacific Railroad 
+128,41.38652094,-75.70457564,R,"Taylor, PA",Norfolk Southern Railroad
+129,41.63841034,-83.5896525,R,"Toledo, OH",Norfolk Southern Railroad
+130,39.1677232,-94.45525379,R,"Kansas City, MO",Norfolk Southern - Union Pacific Railroad 
+131,39.76015595,-77.74182928,R,"Greencastle, PA  ",Norfolk Southern Railroad
+132,33.51221412,-86.80702137,R,"Birmingham, AL  ",Norfolk Southern Railroad
+133,29.91595922,-90.10258987,R,"New Orleans, LA  ",Norfolk Southern - Union Pacific Railroad 
+134,38.98753618,-78.1760608,R,"Virginia Inland Port, VA  ",Norfolk Southern Railroad
+135,39.29743956,-76.54650618,R,"Norfolk Southern Bayview Yard,MD",Norfolk Southern Railroad
+136,38.23392592,-82.60780094,R,Prichard,Norfolk Southern Railroad
+137,32.77387777,-96.84776668,R,Dallas,Norfolk Southern Railroad
+138,47.56199636,-122.3317972,R,Seattle,Union Pacific Railroad 
+139,47.26102055,-122.4097954,R,Tacoma,Union Pacific Railroad 
+140,45.48951046,-122.6438036,R,Portland,Union Pacific Railroad 
+141,37.80122645,-122.2988075,R,Oakland,Union Pacific Railroad 
+142,37.84338736,-121.2637056,R,Lathrop,Union Pacific Railroad 
+143,34.00965519,-118.1795442,R,Los Angeles-Long Beach,Union Pacific Railroad 
+144,34.06694049,-117.4169285,R,Inland Empire,Union Pacific Railroad 
+145,39.53161045,-119.7552989,R,Sparks,Union Pacific Railroad 
+146,36.27263998,-115.0684047,R,Las Vegas,Union Pacific Railroad 
+147,40.75174614,-112.0112575,R,Salt Lake City,Union Pacific Railroad 
+148,33.4439923,-112.054696,R,Phoenix,Union Pacific Railroad 
+149,32.12289651,-110.8460097,R,Tucson,Union Pacific Railroad 
+150,39.77525166,-104.9641739,R,Denver,Union Pacific Railroad 
+151,31.90068385,-106.7400476,R,Santa Teresa,Union Pacific Railroad 
+152,44.97830213,-93.21377162,R,Twin Cities,Union Pacific Railroad 
+153,41.248776,-95.87065238,R,Council Bluffs,Union Pacific Railroad 
+154,29.31047014,-98.64064978,R,San Antonio,Union Pacific Railroad 
+155,27.66560153,-99.44681379,R,Laredo,Union Pacific Railroad 
+156,29.83178191,-95.2886406,R,Houston,Union Pacific Railroad 
+157,30.68658787,-88.03800749,W,Port of Mobile,Alabama River
+158,34.61997312,-86.98702998,W,Port Of Decatur,Tennessee River
+159,34.7184357,-92.17373207,W,Little Rock Port,Arkansas River
+160,33.73655131,-118.2649202,W,Port of Los Angeles,
+161,37.79566628,-122.2791307,W,Port of Oakland,
+162,46.75840566,-92.10785988,W,Duluth-Superior,
+163,41.29188,-72.9031981,W,Port of New Haven,
+164,27.95039352,-82.44497452,W,Port of Tampa Bay,
+165,26.08165257,-80.12056804,W,Port Everglades,
+166,30.40479581,-81.57493323,W,Port of Jacksonville,
+167,32.12151911,-81.13976709,W,Port of Savannah,Savannah River
+168,41.72883882,-87.53650278,W,Illinois International Port,
+169,39.98485221,-91.37510661,W,Mid-America Port,Mississippi River.
+170,41.49352667,-90.6243073,W,Davenport Port Authority,Mississippi River
+171,39.11583792,-94.57149821,W,The Port of Kansas City,Missouri River
+172,38.15777569,-85.89813141,W,Port of Louisville,Ohio River
+173,29.93714113,-90.06131344,W,Port of New Orleans,Mississippi River
+174,30.43465118,-91.20145749,W,Port of Greater Baton Rouge,Mississippi River
+175,30.21583893,-93.24967791,W,Port of Lake Charles,Mississippi River
+176,32.35665754,-93.62539768,W,Port of Shreveport-Bossier,Mississippi River
+177,43.64842849,-70.25872763,W,Maine Port Authority,
+178,39.28608183,-76.60962508,W,Port of Baltimore,
+179,42.36306282,-71.02574893,W,Port of Boston,
+180,45.00068879,-93.23279107,W,Port of Minneapolis,Mississippi River
+181,35.95930992,-83.91130502,W,Port of Knoxville,Tennessee River
+182,32.38848538,-90.88399711,W,Port of Vicksburg,
+183,38.65028376,-90.18246103,W,Port of St. Louis and East St. Louis,
+184,37.06855465,-88.58183752,W,Paducah-McCracken Riverport,Ohio River
+185,41.30561909,-95.88550428,W,Port of Omaha,Missouri River
+186,40.69222737,-74.1817003,W,Port of New York and New Jersey,
+187,34.19649034,-77.95494664,W,Port of Wilmington,
+188,39.41602246,-81.45402881,W,Mid-Ohio Valley Port,
+189,39.09937497,-84.53638472,W,Ports of Cincinnati-Northern KY,
+190,36.11899009,-95.56677394,W,Tulsa Port of Inola,Arkansas River
+191,45.58806869,-122.5890884,W,Port of Portland,
+192,39.9805767,-75.089648,W,Port of Philadelphia,
+193,40.44896455,-80.10905192,W,Port of Pittsburgh,Monongahela River
+194,32.78151168,-79.92376901,W,Port of Charleston,
+195,36.16544507,-86.7768711,W,The port of Nashville,Cumberland River
+196,35.06877016,-90.13899424,W,Port of Memphis,Mississippi River
+197,29.61094462,-95.02167126,W,Port of Houston,
+198,27.81162368,-97.39650867,W,Port of Corpus Christi,
+199,36.79840814,-76.2885572,W,Port of Hampton Roads,
+200,47.61383765,-122.3542722,W,Port of Seattle,
+201,38.42481006,-82.582874,W,Port of Huntington Tri-State,Ohio River
+202,42.32725836,-83.04212351,W,Detroit-Wayne County Port,
+203,41.50311348,-81.70456109,W,Cleveland-Cuyahoga Port,
+204,45.41034552,-83.78746318,W,Port of Calcite,
